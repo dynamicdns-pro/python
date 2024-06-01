@@ -5,7 +5,7 @@ description = "Dynamicdns.pro"
 authors = ["OpenAPI Generator Community <team@openapitools.org>"]
 license = "NoLicense"
 readme = "README.md"
-repository = "https://github.com/dynamicdns-pro/GIT_REPO_ID"
+repository = "https://github.com/dynamicdns-pro/python"
 keywords = ["OpenAPI", "OpenAPI-Generator", "Dynamicdns.pro"]
 include = ["dynamicdnsapi/py.typed"]
 

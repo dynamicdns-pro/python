@@ -18,9 +18,9 @@ Python 3.7+
 If the python package is hosted on a repository, you can install directly using:
 
 ```sh
-pip install git+https://github.com/dynamicdns-pro/GIT_REPO_ID.git
+pip install git+https://github.com/dynamicdns-pro/python.git
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/dynamicdns-pro/GIT_REPO_ID.git`)
+(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/dynamicdns-pro/python.git`)
 
 Then import the package:
 ```python
